@@ -1,5 +1,5 @@
 # notes
-Jupyter notebook files or colab files
+Jupyter notebook(lab) files or colab files
 
 
 ### Matrix multiplication C program in Jupyter notebook or google colaboratory
